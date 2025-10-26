@@ -16,13 +16,14 @@
        </a>
 <a href="mailto:your-email@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" /> 
 </a>
-<a href="https://mjcornelio.github.io/portfolio/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo" /> </a>
+<a href="https://mar-portfolio-topaz.vercel.app" target="_blank"> <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo" /> </a>
 </div>
 <hr />
 
 ###
 
-<p align="left">Level 2 Junior Web Developer with hands-on experience in HTML, CSS, JavaScript, React.js, Node.js, .NET Core, and Blazor. Passionate about crafting seamless and engaging user experiences using modern front-end and back-end technologies.</p>
+<p align="left">Full-Stack Developer skilled in ReactJS, NextJS, .NET, NodeJS, ExpressJS, Blazor, and TypeScript. I specialize in building scalable, high-performance, and user-friendly web applications. With experience across both frontend and backend development, I focus on clean code, efficient API integration, and seamless user experiences. Passionate about performance optimization and team collaboration.
+</p>
 
 ###
 
@@ -64,10 +65,6 @@
 <h3 align="center">⚡ Stats</h3>
 <hr />
 <div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=mjcornelio&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-  <br />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mjcornelio&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjcornelio&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
