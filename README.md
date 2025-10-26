@@ -5,7 +5,7 @@
 
 ###
 
-<h3 align="center">🚀L2 Junior Software Developer | 2+ Years of Experience | Crafting Efficient and Scalable Solutions</h3>
+<h3 align="center">🚀 Software Developer | 2+ Years of Experience | Crafting Efficient and Scalable Solutions</h3>
 <p align="center">Passionate about building user-friendly web applications, solving complex problems, and continuously learning new technologies. Let's create something amazing together! 🌟</p>
 
 ###
