@@ -3,12 +3,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mjcornelio.mjcornelio" />
 <h2 align="center">Hi 👋 I'm Mar John</h1>
 
-###
+<br />
+
 
 <h3 align="center">🚀 Software Developer | 2+ Years of Experience | Crafting Efficient and Scalable Solutions</h3>
 <p align="center">Passionate about building user-friendly web applications, solving complex problems, and continuously learning new technologies. Let's create something amazing together! 🌟</p>
 
-###
+<br />
+
 
 <div align="center">
     <a href="https://www.linkedin.com/in/marjohn-cornelio/" target="_blank">
@@ -20,17 +22,20 @@
 </div>
 <hr />
 
-###
+<br />
+
 
 <p align="left">Full-Stack Developer skilled in ReactJS, NextJS, .NET, NodeJS, ExpressJS, Blazor, and TypeScript. I specialize in building scalable, high-performance, and user-friendly web applications. With experience across both frontend and backend development, I focus on clean code, efficient API integration, and seamless user experiences. Passionate about performance optimization and team collaboration.
 </p>
 
-###
+<br />
+
 
 <h3 align="center">⚙️ Language and tools</h3>
 <hr />
 
-###
+<br />
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="60" alt="html5 logo"  />
@@ -60,12 +65,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="40" width="60" alt="ms sql server logo"/>
 </div>
 
-###
+<br />
+
 
 <h3 align="center">⚡ Stats</h3>
 <hr />
 <div align="center">
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjcornelio&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<br />
 
-###
